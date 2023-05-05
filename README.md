@@ -1,6 +1,9 @@
 ♣ 👋 Hi, I’m @rdopaa
+
 ♣ 👀 I’m interested in FiveM...
+
 ♣ 🌱 I’m currently learning Lua, SQL and more...
+
 ♣ 💞️ I’m looking to collaborate with scripts for FiveM ...
 
 
